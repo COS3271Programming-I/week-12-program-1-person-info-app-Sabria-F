@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 //Initialize the person class which defines the attributes a person object will have.
 class Person {
+
    //Define all the attributes of a person.
    String firstName;
    String lastName;
@@ -12,6 +13,7 @@ class Person {
    Double height;
    String ethnicGroup;
    String religion; 
+
 }
 
 //Here is the main class that creates an instance of the program.
